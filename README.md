@@ -1,0 +1,2 @@
+# mindworx
+Python class excercises
